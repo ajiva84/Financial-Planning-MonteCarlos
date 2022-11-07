@@ -24,8 +24,8 @@ This project leverages python 3.7 with the following packages:
 * [Pandas](https://github.com/pandas-dev/pandas) - Pandas library is utlized to prepare and analyze the data
 * [Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html) - Numpy library used for math calculations
 * [Matplotlib](https://matplotlib.org/stable/index.html) -  Matplot library used for graph plotting
-* [Pathlib] (https://docs.python.org/3/library/pathlib.html) - Path library to provide local file path
-* [Monte Carlos library] (Uploaded to repo) - Monte Carlos library for forecasting the portfolio performance 
+* [Pathlib](https://docs.python.org/3/library/pathlib.html) - Path library to provide local file path
+* [Monte Carlos library](Uploaded to repo) - Monte Carlos library for forecasting the portfolio performance 
 
 ## Installation Guide
 
