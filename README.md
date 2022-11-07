@@ -15,7 +15,7 @@ This repo can used as a financial tool to visuaulize current savings, determine 
 # Technologies
 
 Python is the primary language used to code this application. CVS library is utilized to read and store the data. Pandas library to preapre and analyz the data. 
-Numpy library for mathematical computation. Matplotlib library for creating static, animated, and interactive visualization in Python. API keys are store in evnviroment file (not available in github). Alpaca public APIs used to prepare the historical data for forcasting and analysis. Path library is used to identify the path of files. 
+Numpy library for mathematical computation. Matplotlib library for creating static, animated, and interactive visualization in Python. API keys are store in evnviroment file (not available in github). Alpaca public APIs used to prepare the historical data for forcasting and analysis. Path library is used to identify the path of files. HTTP library to construct request for APIs and used as depdency for other libraries. 
 
 
 This project leverages python 3.7 with the following packages:
@@ -26,7 +26,9 @@ This project leverages python 3.7 with the following packages:
 * [Matplotlib](https://matplotlib.org/stable/index.html) -  Matplot library used for graph plotting
 * [Pathlib](https://docs.python.org/3/library/pathlib.html) - Path library to provide local file path
 * [Monte Carlos library](Uploaded to repo) - Monte Carlos library for forecasting the portfolio performance 
-
+* [Alpaca APIs](https://alpaca.markets/) - Aplaca APIs to download the historical data 
+* [Request](https://pypi.org/project/requests/) - Library to handle HTTP request / response
+*
 ## Installation Guide
 
 
@@ -36,6 +38,10 @@ Before running the application first install the following dependencies.
   pip install csv
   pip install pandas
   pip install matplotlib
+  pip intall pathlib
+  pip install Numpy
+  pip install alpaca-py
+  pip install requests
 ```
 
 ## Usage
