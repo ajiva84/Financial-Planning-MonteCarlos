@@ -28,7 +28,7 @@ This project leverages python 3.7 with the following packages:
 * [Monte Carlos library](Uploaded to repo) - Monte Carlos library for forecasting the portfolio performance 
 * [Alpaca APIs](https://alpaca.markets/) - Aplaca APIs to download the historical data 
 * [Request](https://pypi.org/project/requests/) - Library to handle HTTP request / response
-*
+
 ## Installation Guide
 
 
@@ -42,6 +42,7 @@ Before running the application first install the following dependencies.
   pip install Numpy
   pip install alpaca-py
   pip install requests
+  
 ```
 
 ## Usage
