@@ -1,8 +1,8 @@
-# Financial-Planning-MonteCarlos
+# Financial Planning
 
 Financial planning is looking at client's entire financial picture and adivising them on how to acheive their short and long term goals. It could be for education, retirement planning to effectively manage taxes and ensuring the client retire with sufficient funds. Financial planner develops valuable relationship with the client to provide them with confidence today and a secure tomorrow. 
 
-This repo can used as a financial tool to visuaulize current savings, determine if the savings are enough for an emergency fund. Second, it provides performance forcasting for a retirement portofolio in 30 years with 60% stocks and 40% bonds. Finally, it takes an aggresive approach by increasing the stock weight to 80% to forecaste the performance in 10 years. 
+This repo can used as a financial tool to visuaulize current savings, determine if the savings are enough for an emergency fund. Second, it provides performance forcasting for a retirement portofolio in 30 years with 60% stocks and 40% bonds. Finally, it takes an aggresive approach by increasing the stock weight to 80% to forecaste the performance of a retirement portfolio in 10 years. 
 
 
 # Technologies
