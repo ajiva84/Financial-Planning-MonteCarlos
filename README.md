@@ -2,7 +2,7 @@
 -----------
 
 
-![Finanl Planning](images/FP.png)
+![Finanl Planning](Images/FP.png)
 
 -----------
 
