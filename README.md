@@ -38,7 +38,7 @@ Before running the application first install the following dependencies.
   pip install csv
   pip install pandas
   pip install matplotlib
-  pip intall pathlib
+  pip install pathlib
   pip install Numpy
   pip install alpaca-py
   pip install requests
