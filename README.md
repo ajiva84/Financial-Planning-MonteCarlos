@@ -1,5 +1,10 @@
 # Financial Planning
+-----------
 
+
+![money](images/FP.png)
+
+-----------
 
 
 Financial planning is looking at client's entire financial picture and adivising them on how to acheive their short and long term goals. It could be for education, retirement planning to effectively manage taxes and ensuring the client retire with sufficient funds. Financial planner develops valuable relationship with the client to provide them with confidence today and a secure tomorrow. 
