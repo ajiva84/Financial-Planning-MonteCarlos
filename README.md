@@ -47,7 +47,7 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-Use the following command to run the loan applocation
+Use the following command to run the financial planning app
 
 ```git to the directory and type
  jupyter lab
